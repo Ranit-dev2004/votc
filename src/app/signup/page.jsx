@@ -1,4 +1,4 @@
-'use client'; // Indicating this is a client-side component in Next.js
+'use client'; 
 
 import React, { useState } from 'react';
 import Link from 'next/link';
